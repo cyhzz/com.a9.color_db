@@ -1,0 +1,16 @@
+{
+    "name": "Com.A9.ColorDB.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b613be1ad909c428aaff4abd875ae37d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
